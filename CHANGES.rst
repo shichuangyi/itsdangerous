@@ -290,3 +290,4 @@ Released 2011-06-25
     by passing in a module instead of having to override the payload
     loaders and dumpers. This makes the interface more compatible with
     Django's recent changes.
+
